@@ -1,0 +1,72 @@
+[
+
+    {
+        "id":1,
+        "title": "The Lord of the Rings: The Rings",
+        "desc":"The Lord of the Rings: The Rings of Power - Season 1",
+        "price":18.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91mzrMvWR5L._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Samaritan",
+        "desc":"Samaritan",
+        "price":15.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/812MObytSaL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    
+    {
+        "id":1,
+        "title": "Sprung Season 1",
+        "desc":"Sprung Season 1",
+        "price":11.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81vzvhly+rL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Robocop (2014)",
+        "desc":"Robocop (2014)",
+        "price":9.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91+8rrhCRfL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Power Book III: Raising Kanan ",
+        "desc":"Power Book III: Raising Kanan Season 2",
+        "price":12.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91dqtd5nHQL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Goodnight Mommy",
+        "desc":"Goodnight Mommy",
+        "price":23.00,
+        "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/7123CfD3yPL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "A League of Their Own - Season 1",
+        "desc":"A League of Their Own - Season 1",
+        "price":22.00,
+        "image":"https://m.media-amazon.com/images/I/91Kr5IVmd8L._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "The Terminal List - Season 1",
+        "desc":"The Terminal List - Season 1",
+        "price":11.00,
+        "image":"https://m.media-amazon.com/images/I/81oiGha5pTL._AC_UY218_.jpg"  ,
+        "ratings":4
+    }
+
+
+
+
+]

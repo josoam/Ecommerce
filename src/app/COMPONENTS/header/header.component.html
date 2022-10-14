@@ -1,0 +1,144 @@
+<div class="header">
+  <nav class="header_top">
+    <div class="header_menu">
+      <div class="header_menu_icon" ><!--<mat-icon >menu</mat-icon> -->
+        <div mat-icon-button [matMenuTriggerFor]="menu">
+          <mat-icon>menu</mat-icon>
+        </div>
+        <mat-menu #menu="matMenu">
+          <button mat-menu-item  routerLink="/login">
+            <strong><mat-icon>person</mat-icon>
+            <span>Hello,Sign Up</span></strong>
+          </button>
+          
+          
+          
+          <mat-divider></mat-divider>
+          <button mat-menu-item routerLink="smartphones">
+            <span><strong>Digital Content & Devices</strong> </span>
+          </button>
+          <button mat-menu-item routerLink="/musics">
+            <span>Music</span>
+          </button>
+          <button mat-menu-item routerLink="/livres">
+            <span>E-readers & Books</span>
+          </button>
+          <button mat-menu-item routerLink="/jeuxs">
+            <span>Games</span>
+          </button>
+          <mat-divider></mat-divider>
+          <button mat-menu-item >
+            <span><strong>Shop By Department</strong></span>
+          </button>
+          <button mat-menu-item routerLink="films">
+            <span>New Film</span>
+          </button>
+          <button mat-menu-item routerLink="/bijouxs">
+            <span>Neclace</span>
+          </button>
+          <button mat-menu-item routerLink="/teniss">
+            <span>Shoe</span>
+          </button>
+          <button mat-menu-item routerLink="/costars">
+            <span>Costar Man</span>
+          </button>
+          <button mat-menu-item routerLink="woman">
+            <span>Costar Woman</span>
+          </button>
+         
+          <button mat-menu-item >
+            
+          <span><strong>Help & Settings</strong>></span>
+          </button>
+          <button mat-menu-item routerLink="">
+            <span> alerts</span>
+          </button>
+        
+          
+          <button mat-menu-item routerLink="">
+            <span> alerts</span>
+          </button>
+        </mat-menu>
+
+      </div>
+                         <!--http://pngimg.com/uploads/amazon/amazon_PNG11.png-->
+      <img routerLink="homes" src="assets/pictures/shh.jpg" class="header_menu_logo" alt="">
+    <!--livraison-->
+    
+    <!--livraison-->
+      <div class="header_menu_searchbar">
+     <input type="text" class="header_menu_input"   [(ngModel)]="searchTerm" (keyup)="search($event)" >
+     <div class="header_menu_searchbar_icon">
+       <mat-icon>search</mat-icon>
+
+     </div>
+   </div>
+   <div routerLink="/login" class="header_menu_signin">
+     <span class="header_menu_top_item">Hello, Sign in</span>
+     <span class="header_menu_bottom_item">Accounts & Lists</span>
+
+   </div>
+   <div routerLink="/login" class="header_menu_signin">
+    <span class="header_menu_top_item">Returns</span>
+    <span class="header_menu_bottom_item">& Orders</span>
+
+  </div>
+  <div  routerLink="/checkout" class="header_menu_cart">
+    <mat-icon>shopping_cart</mat-icon>
+    <p class="header_cart_number">{{shoppingCart.getCartLength()}}</p>
+  </div>
+    </div>
+
+  </nav>
+
+  <nav class="header_bottom">
+   
+    
+    <div class="header_bottom_location_text">
+      
+      <span class="header_left_line_one"><mat-icon> place</mat-icon>Delivery to</span>
+      <span  class="header_left_line_two"> <Strong>Madagascar</Strong></span>
+      
+    </div>
+    
+    <div class="header_bottom_location_text" routerLink="musics">
+      <span  > <h6>Musics</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="jeuxs">
+      <span  > <h6>Games</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="livres">
+      <span  > <h6>Books</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="beauty">
+      <span  > <h6>Beauty</h6></span>
+    </div>
+
+    <div class="header_bottom_location_text" routerLink="films">
+      <span  > <h6>New Film</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="bijouxs">
+      <span  > <h6>Neclace</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="montres">
+      <span  > <h6>Watch</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="teniss">
+      <span  > <h6>Tenis</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="/costars">
+      <span  > <h6>Costar</h6></span>
+    </div>
+    <div class="header_bottom_location_text">
+      <span  > <h6 class="a" routerLink="/sidebar">Admin</h6> </span>
+    </div>
+    
+    
+    
+
+
+    
+      </nav>
+
+
+</div>

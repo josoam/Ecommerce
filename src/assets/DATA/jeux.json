@@ -1,0 +1,72 @@
+[
+
+    {
+        "id":1,
+        "title": "Saints Row Day 1 Edition - PlayStation 4",
+        "desc":"Saints Row Day 1 Edition - PlayStation 4",
+        "price":250.00,
+        "image":"https://m.media-amazon.com/images/I/817Ge1n53RL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "DualShock 4 Wireless Controller for PlayStation 4 - Jet Black",
+        "desc":"DualShock 4 Wireless Controller for PlayStation 4 - Jet Black",
+        "price":50.00,
+        "image":"https://m.media-amazon.com/images/I/61IG46p-yHL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    
+    {
+        "id":1,
+        "title": "PlayStation VR Marvel's Iron Man VR Bundle",
+        "desc":"PlayStation VR Marvel's Iron Man VR Bundle",
+        "price":300.00,
+        "image":"https://m.media-amazon.com/images/I/71hfAFNOO7L._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "The Last of Us Part II - PlayStation 4 Saison 6",
+        "desc":"The Last of Us Part II - PlayStation 4",
+        "price":130.00,
+        "image":"https://m.media-amazon.com/images/I/71p8G+YeA6L._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": " Teenage Mutant Ninja Turtles Cowabunga Collection PS4" ,
+        "desc":" Teenage Mutant Ninja Turtles Cowabunga Collection PS4",
+        "price":150.00,
+        "image":"https://m.media-amazon.com/images/I/81H4fzaYXBL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title":"Tales of Symphonia Remastered - PlayStation 4",
+        "desc":"Tales of Symphonia Remastered - PlayStation 4",
+        "price":39.00,
+        "image":"https://m.media-amazon.com/images/I/81t6fB-2M+L._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Madden NFL 23 – PlayStation 4 Saison 5",
+        "desc":"Madden NFL 23 – PlayStation 4l",
+        "price":60.00,
+        "image":"https://m.media-amazon.com/images/I/61nvZwRloSL._AC_UY218_.jpg"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "WWE 2K22 -:14 PlayStation 4 Saison 2",
+        "desc":"WWE 2K22 - PlayStation 4",
+        "price":58.00,
+        "image":"https://m.media-amazon.com/images/I/71fgGy4A51L._AC_UY218_.jpg"  ,
+        "ratings":4
+    }
+
+
+
+
+]

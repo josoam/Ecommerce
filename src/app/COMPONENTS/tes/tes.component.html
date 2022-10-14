@@ -1,0 +1,68 @@
+  
+
+<div class="b">
+               <div class="products">
+                   <div class="product"   *ngFor=" let item of products"><!--pour chaque item dans products-->
+                       
+                       <mat-card>
+                         
+                        
+<table>
+    <tr>
+        <th>n°</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Phone N</th>
+      <th>Password</th>
+      
+    </tr>
+    <tr>
+      <td>{{item.id}}</td>
+      <td>{{item.lname}}</td>
+      <td>{{item.email}}</td>
+      <td>{{item.phone}}</td>
+      <td>{{item.password}}</td>
+      <td>{{item.fname}}</td>
+    </tr>
+   
+  </table>
+                       </mat-card>
+                   </div>  
+               </div>
+               </div>
+
+
+               
+           
+               
+              <!--"fname": "shivam",
+               "lname": "adhikari",
+               "email": "shivamadhikari@gmail.com",
+               "phone": "32432",
+               "password": "asdf",
+               "id": 2  
+            
+             <td>
+        <tr>n°</tr>
+      <tr>First Name</tr>
+      <tr>Last Name</tr>
+      <tr>Email</tr>
+      <tr>Phone N</tr>
+      <tr>Password</tr>
+      <button>Delete</button>
+      
+    </td>
+    <td>
+      <tr>{{item.id}}</tr>
+      <tr>{{item.lname}}</tr>
+      <tr>{{item.email}}</tr>
+      <tr>{{item.phone}}</tr>
+      <tr>{{item.password}}</tr>
+      <tr>{{item.fname}}</tr>
+    </td>
+   
+            
+            -->        
+           
+           

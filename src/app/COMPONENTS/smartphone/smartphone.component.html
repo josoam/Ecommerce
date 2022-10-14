@@ -1,0 +1,80 @@
+
+<ngb-carousel class="fondback">
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="https://m.media-amazon.com/images/I/71DMThNo7hL._SX3000_.jpg" alt="Angular Carousel 1">
+      </div>
+      
+    </ng-template>
+    <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61TD5JLGhIL._SX3000_.jpg" alt="Angular Carousel 1">
+        </div>
+        
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img src="https://m.media-amazon.com/images/I/711Y9Al9RNL._SX3000_.jpg" alt="Angular Carousel 1">
+        </div>
+        <div class="carousel-caption">
+          <h3>Title Goes Here</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img src="https://m.media-amazon.com/images/I/71qid7QFWJL._SX3000_.jpg" alt="Angular Carousel 1">
+        </div>
+        <div class="carousel-caption">
+          <h3>Title Goes Here</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img src="https://m.media-amazon.com/images/I/61TYVGLZ6BL._SX3000_.jpg" alt="Angular Carousel 1">
+        </div>
+        <div class="carousel-caption">
+          <h3>Title Goes Here</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img src="https://m.media-amazon.com/images/I/61jovjd+f9L._SX3000_.jpg" alt="Angular Carousel 1">
+        </div>
+        <div class="carousel-caption">
+          <h3>Title Goes Here</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </ng-template>
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="https://m.media-amazon.com/images/I/61DUO0NqyyL._SX3000_.jpg" alt="Angular Carousel 2">
+      </div>
+      <div class="carousel-caption">
+        <h3>Title Goes Here</h3>
+        <p>Consectetur tortor volutpat pretium.</p>
+      </div>
+    </ng-template>
+  </ngb-carousel>
+
+
+
+
+
+
+
+<div class="b">
+    <div class="products">
+        <div class="product"   *ngFor=" let item of products   | filter:searchKey:'title'"><!--pour chaque item dans products-->
+            
+            <mat-card>
+                <p>{{item.title}}</p>
+                <p>$<strong>{{item.price}}</strong></p>
+                <img src={{item.image}}>
+                <button (click)="addToCart(item)">Add to cart</button>
+            </mat-card>
+        </div>  
+    </div>
+    </div>

@@ -1,0 +1,69 @@
+[
+
+               {
+                   "id":1,
+                   "title": "Montre",
+                   "desc":"This montrexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/montre.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Casquette",
+                   "desc":"This is casquettexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/casquete.jpeg"  ,
+                   "ratings":4
+               },
+               
+               {
+                   "id":1,
+                   "title": "Casquette",
+                   "desc":"This is casquettexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/casquete.jpeg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Casquette",
+                   "desc":"This is casquettexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/casquete.jpeg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Casquette",
+                   "desc":"This is casquettexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/casquete.jpeg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Casquette",
+                   "desc":"This is casquettexxx",
+                   "price":50.00,
+                   "image":"assets/pictures/casquete.jpeg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "apareil",
+                   "desc":"This appareil",
+                   "price":50.00,
+                   "image":"assets/pictures/appareil.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "apareil",
+                   "desc":"This appareil",
+                   "price":50.00,
+                   "image":"assets/pictures/appareil.jpg"  ,
+                   "ratings":4
+               }
+           
+           ]

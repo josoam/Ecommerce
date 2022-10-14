@@ -1,0 +1,18 @@
+
+
+<div class="subtotal" *ngIf="shoppingCart.getCartLength() > 0">
+    <p>Total: ({{shoppingCart.getCartLength()}} items) 
+        <strong>${{shoppingCart.getTotal()}}</strong></p>
+        <div class="subtotal_gift">
+            <input type="checkbox"/>
+           <p>This order contains a gift</p> 
+        </div>
+        <button  (click)="makePayment(0)"> Proceed to checkout</button>
+
+        <div *ngIf="success">
+            <h1>Your Payment is complete successfully</h1>
+          </div>
+          <div *ngIf="failure">
+              <h1>Some Error is taken place inside the payment</h1>
+          </div>
+</div>

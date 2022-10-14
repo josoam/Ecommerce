@@ -1,0 +1,69 @@
+[
+
+               {
+                   "id":1,
+                   "title": "Panier Souvenir Madagascar",
+                   "desc":"Pannier Souvenir Madagascar",
+                   "price":5.00,
+                   "image":"https://www.ile-rouge.com/wp-content/uploads/2020/07/artisanat-mada-min.png"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Panier Fabriqué avec Rafia",
+                   "desc":"Panier Fabriqué avec Rafia",
+                   "price":7.00,
+                   "image":"https://www.bikini.re/wp-content/uploads/jet-engine-forms/37/2020/12/Roofi_boutique_d%C3%A9co_sac_handmade_raphia_artisanal_Tananarive_Mada-6.jpg"  ,
+                   "ratings":4
+               },
+               
+               {
+                   "id":1,
+                   "title": "Porte-bijoux baobab bouteille ",
+                   "desc":"Porte-bijoux baobab bouteille ",
+                   "price":23.00,
+                   "image":"http://www.madabascar.com/photo/Madabascar_272_20181003_151853.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Boîte en bois de rose",
+                   "desc":"Boîte en bois de rose",
+                   "price":50.00,
+                   "image":"http://www.madabascar.com/photo/Madabascar_63_20090417_172105.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Les bijoux en nacre de Madagascar",
+                   "desc":"les bijoux en nacre de Madagascar",
+                   "price":5.00,
+                   "image":"https://latribune.cyber-diego.com/images/thumbnails/images/stories/2011/avr/bijoux-nacre-fit-450x228.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Des paignes fabriqué avec corne de Zébu",
+                   "desc":"Des paignes fabriqué avec corne de Zébu",
+                   "price":25.00,
+                   "image":"https://madagascar-green-island-discovery.com/wp-content/uploads/2020/07/Corne.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Rojo Vita Malagasy",
+                   "desc":"Malagasy Amperin'Asa",
+                   "price":15.00,
+                   "image":"http://4.bp.blogspot.com/-xlEF-57kuuY/UJmM-_5tcuI/AAAAAAAAAps/IwehvzrcE_Q/s1600/collier+012+-+55+eur.jpg"  ,
+                   "ratings":4
+               },
+               {
+                   "id":1,
+                   "title": "Porte Photo ",
+                   "desc":"Porto Photo",
+                   "price":50.00,
+                   "image":"http://2.bp.blogspot.com/-XCVhApLqELs/UJmIr6aD8gI/AAAAAAAAAc4/N98PGRUhQHw/s320/028+-+tri-cadre+en+raphia+-+20+eur.jpg"  ,
+                   "ratings":4
+               }
+           
+           ]

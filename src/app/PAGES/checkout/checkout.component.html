@@ -1,0 +1,21 @@
+<div class="checkout">
+
+<div class="checkout_left">
+<div class="checkout_empty"   *ngIf="shopping_cart.getCartLength() == 0">
+    <h2>Your Shopping basket is empty</h2>
+    <p>You have no item in your basket</p>
+</div>
+<div class="checkout_empty"   *ngIf="shopping_cart.getCartLength() !== 0">
+    <strong> Shopping Cart</strong>
+    
+<!-- <app-checkout-products [checkout_products] = "products" (deleteEvent) = "deleteEventHandler($event)"></app-checkout-products> -->
+<app-checkout-products [checkout_products] = "items" (deleteEvent) = "deleteEventHandler($event)"></app-checkout-products>
+</div>
+
+</div>
+<div class="checkout_right">
+    <app-checkout-subtotal ></app-checkout-subtotal>
+    
+</div>
+
+</div>

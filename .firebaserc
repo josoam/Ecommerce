@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "myclone-7bb3d": {
+      "hosting": {
+        "deux": [
+          "myclone-7bb3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "myclone-7bb3d"
+  }
+}

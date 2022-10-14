@@ -1,0 +1,72 @@
+[
+
+    {
+        "id":1,
+        "title": "Nike Odyssey React Shield",
+        "desc":"Nike Odyssey React Shield",
+        "price":150.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike01a.png"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "LeBron 16",
+        "desc":"LeBron 16",
+        "price":120.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike02a.png"  ,
+        "ratings":4
+    },
+    
+    {
+        "id":1,
+        "title": "Nike Epic React Flyknit",
+        "desc":"This is casquettexxx",
+        "price":120.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike03a.png" ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Nike Air Max 97 Premium",
+        "desc":"Nike Air Max 97 Premium",
+        "price":180.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike04a.png"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Nike Rise React Flyknit LMTD",
+        "desc":"Nike Rise React Flyknit LMTD",
+        "price":170.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike07a.png"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Nike Flyknit Racer G",
+        "desc":"Nike Flyknit Racer G",
+        "price":165.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike08a.png"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Nike Free x Retcon",
+        "desc":"Nike Free x Retcon",
+        "price":111.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike10a.png"  ,
+        "ratings":4
+    },
+    {
+        "id":1,
+        "title": "Nike Air Force 1 '07 Suede",
+        "desc":"Nike Air Force 1 '07 Suede",
+        "price":95.00,
+        "image":"https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike11a.png"  ,
+        "ratings":4
+    }
+
+
+
+
+]

@@ -1,0 +1,19 @@
+
+<div class="b">
+    <div class="products">
+        <div class="product"   *ngFor=" let item of products"><!--pour chaque item dans products-->
+            
+            <mat-card>
+                <p >{{item.title}}</p>
+                <p>$<strong>{{item.price}}</strong></p>
+                <img src={{item.image}}>
+                <button routerLink="/login">Add to cart</button>
+            </mat-card>
+        </div>  
+    </div>
+    </div>
+    
+
+    
+            
+
