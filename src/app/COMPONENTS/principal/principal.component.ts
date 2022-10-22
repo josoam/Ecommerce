@@ -8,10 +8,12 @@ import { ShoppingCartService } from 'src/app/SERVICES/shopping-cart.service';
 export class PrincipalComponent implements OnInit {
   
   @Input() products: any [];
-  
+  searchKey:string ="";
   constructor(private shopping_cart:ShoppingCartService) { }
 
   ngOnInit(): void {
+    this.shopping_cart.search.subscribe((val:any)=>{
+      this.searchKey = val; })
   }
   addToCart(p: any){
     this.shopping_cart.addProduct(p)

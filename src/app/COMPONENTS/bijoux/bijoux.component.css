@@ -3,7 +3,7 @@
 
 .fondback{
     width: 100%;
-    
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
     mask-size: 50%;
     z-index: -50;
     margin-bottom: -300px;
@@ -57,9 +57,9 @@ ngb-carousel {
 }
 .product > mat-card >button{
     margin-top: 20px;
-    background-color: #8bece7;
+    background-color: #f0c14b;
     border-radius: 5px ;
-    border-color: #84f1df;
+    border-color: #f78605;
 }
 .product > mat-card{
     display: flex;
@@ -68,6 +68,6 @@ ngb-carousel {
     width:300px;
     margin: 10px;
     align-items: center;
-    border-radius: 50%;
+   /* border-radius: 50%;*/
 }
 

@@ -1,7 +1,8 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
 .fondback{
     width: 100%;
-    
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
     mask-size: 50%;
     z-index: -50;
     margin-bottom: -300px;
@@ -49,16 +50,11 @@ ngb-carousel {
 
 
 
-.b{
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/nike10a.png")  
-}
 .products{
     /*background-image: url("http://pngimg.com/uploads/amazon/amazon_PNG11.png");*/
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
-   
-   
 }
 .product > mat-card >img{
     object-fit:contain;
@@ -76,8 +72,7 @@ ngb-carousel {
     flex-direction: column;
     min-height: 350px;
     width:300px;
-    margin: 10px;
+    margin: 5px;
     align-items: center;
-    border-radius: 50%;
 }
 

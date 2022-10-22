@@ -24,6 +24,7 @@ import { AsatananasComponent } from './COMPONENTS/asatananas/asatananas.componen
 import { CostarsComponent } from './COMPONENTS/costars/costars.component';
 import { MontresComponent } from './COMPONENTS/montres/montres.component';
 import { AjouterComponent } from './ajouter/ajouter.component';
+import { ImageComponent } from './COMPONENTS/image/image.component';
 
 
 
@@ -39,6 +40,7 @@ const routes: Routes=[
   //{path:'login' , component:LoginComponent},
  /* {path:'checkout',component:CheckoutComponent},
   */
+ {path:'image',component:ImageComponent},
   {path:'teniss',component:TenissComponent},
   {path:'sidebar',component:SidebarComponent},
   {path:'login',component:LoginComponent},

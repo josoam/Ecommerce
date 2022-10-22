@@ -14,7 +14,7 @@ export class LoginComponent implements OnInit {
 
   ngOnInit(): void {
     this.login = new FormGroup({
-      'fname': new FormControl(),
+      'email': new FormControl(),
       'password': new FormControl()
     })
   }
@@ -23,7 +23,7 @@ export class LoginComponent implements OnInit {
     this._http.get<any>("http://localhost:3000/signup")
     .subscribe(res=>{
       const user = res.find((a:any)=>{
-        return a.fname === this.login.value.fname && a.password === this.login.value.password
+        return a.email === this.login.value.email && a.password === this.login.value.password
       });
 
       if(user){

@@ -14,7 +14,7 @@
           
           
           <mat-divider></mat-divider>
-          <button mat-menu-item routerLink="smartphones">
+          <button mat-menu-item >
             <span><strong>Digital Content & Devices</strong> </span>
           </button>
           <button mat-menu-item routerLink="/musics">
@@ -31,33 +31,26 @@
             <span><strong>Shop By Department</strong></span>
           </button>
           <button mat-menu-item routerLink="films">
-            <span>New Film</span>
+            <span>Film</span>
           </button>
           <button mat-menu-item routerLink="/bijouxs">
-            <span>Neclace</span>
+            <span>Necklace</span>
           </button>
           <button mat-menu-item routerLink="/teniss">
-            <span>Shoe</span>
+            <span>Shoes</span>
           </button>
           <button mat-menu-item routerLink="/costars">
-            <span>Costar Man</span>
+            <span>Costume Man</span>
           </button>
-          <button mat-menu-item routerLink="woman">
-            <span>Costar Woman</span>
+          <button mat-menu-item routerLink="/asatananas">
+            <span>Malagasy Art</span>
           </button>
+          
          
-          <button mat-menu-item >
-            
-          <span><strong>Help & Settings</strong>></span>
-          </button>
-          <button mat-menu-item routerLink="">
-            <span> alerts</span>
-          </button>
+         
+          
         
           
-          <button mat-menu-item routerLink="">
-            <span> alerts</span>
-          </button>
         </mat-menu>
 
       </div>
@@ -78,11 +71,11 @@
      <span class="header_menu_bottom_item">Accounts & Lists</span>
 
    </div>
-   <div routerLink="/login" class="header_menu_signin">
+   <!--<div routerLink="/login" class="header_menu_signin">
     <span class="header_menu_top_item">Returns</span>
     <span class="header_menu_bottom_item">& Orders</span>
 
-  </div>
+  </div>-->
   <div  routerLink="/checkout" class="header_menu_cart">
     <mat-icon>shopping_cart</mat-icon>
     <p class="header_cart_number">{{shoppingCart.getCartLength()}}</p>
@@ -94,7 +87,7 @@
   <nav class="header_bottom">
    
     
-    <div class="header_bottom_location_text">
+    <div class="location">
       
       <span class="header_left_line_one"><mat-icon> place</mat-icon>Delivery to</span>
       <span  class="header_left_line_two"> <Strong>Madagascar</Strong></span>
@@ -102,7 +95,7 @@
     </div>
     
     <div class="header_bottom_location_text" routerLink="musics">
-      <span  > <h6>Musics</h6></span>
+      <span  > <h6>Music</h6></span>
     </div>
     <div class="header_bottom_location_text" routerLink="jeuxs">
       <span  > <h6>Games</h6></span>
@@ -110,24 +103,22 @@
     <div class="header_bottom_location_text" routerLink="livres">
       <span  > <h6>Books</h6></span>
     </div>
-    <div class="header_bottom_location_text" routerLink="beauty">
-      <span  > <h6>Beauty</h6></span>
-    </div>
-
+  
     <div class="header_bottom_location_text" routerLink="films">
-      <span  > <h6>New Film</h6></span>
+      <span  > <h6>Film</h6></span>
     </div>
     <div class="header_bottom_location_text" routerLink="bijouxs">
-      <span  > <h6>Neclace</h6></span>
+      <span  > <h6>Necklace</h6></span>
     </div>
-    <div class="header_bottom_location_text" routerLink="montres">
-      <span  > <h6>Watch</h6></span>
-    </div>
+    
     <div class="header_bottom_location_text" routerLink="teniss">
-      <span  > <h6>Tenis</h6></span>
+      <span  > <h6>Shoes</h6></span>
     </div>
     <div class="header_bottom_location_text" routerLink="/costars">
-      <span  > <h6>Costar</h6></span>
+      <span  > <h6>Costume</h6></span>
+    </div>
+    <div class="header_bottom_location_text" routerLink="/smartphones">
+      <span  > <h6>Smartphone</h6></span>
     </div>
     <div class="header_bottom_location_text">
       <span  > <h6 class="a" routerLink="/sidebar">Admin</h6> </span>

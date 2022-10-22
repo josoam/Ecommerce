@@ -1,70 +1,68 @@
 [
 
     {
-        "id":1,
+        "id": 1,
         "title": "Google Pixel 6a – Smartphone Android 5G  ",
-        "desc":"Google Pixel 6a – Smartphone Android 5G débloqué avec appareil photo de 12 Mpx et 24 heures d'autonomie – Galet – Version FR ",
-        "price":450.00,
-        "image":"https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/69131469-2c14-4c1e-a49f-5f2437798ab9._CR0,0,1200,628_SX430_QL70_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
-        "title": "DOOGEE N40 Pro Android 11 Smartphone Débloqué, Octa-Core 6Go+128Go, 6,52 '' HD+ Telephone Portable, Batterie 6380mAh, Caméra Quatre 20MP",
-        "desc":"DOOGEE N40 Pro Android 11 Smartphone Débloqué, Octa-Core 6Go+128Go, 6,52 '' HD+ Telephone Portable, Batterie 6380mAh, Caméra Quatre 20MP",
-        "price":550.00,
-        "image":"https://m.media-amazon.com/images/I/71bYyAdNhpL._AC_SL1500_.jpg"  ,
-        "ratings":4
-    },
-    
-    {
-        "id":1,
+        "desc": "Google Pixel 6a – Smartphone Android 5G débloqué avec appareil photo de 12 Mpx et 24 heures d'autonomie – Galet – Version FR ",
+        "price": 450,
+        "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/69131469-2c14-4c1e-a49f-5f2437798ab9._CR0,0,1200,628_SX430_QL70_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
+        "title": "DOOGEE N40 Pro Android 11 Smartphone Débloqué",
+        "desc": "DOOGEE N40 Pro Android 11 Smartphone Débloqué, Octa-Core 6Go+128Go, 6,52 '' HD+ Telephone Portable, Batterie 6380mAh, Caméra Quatre 20MP",
+        "price": 550,
+        "image": "https://m.media-amazon.com/images/I/71bYyAdNhpL._AC_SL1500_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
         "title": "Cresee Coque Google Pixel 6a (2022)  ",
-        "desc":"Cresee Coque Google Pixel 6a (2022) avec Protection Caméra, Bumper Renforcé Antichoc, Étui Rigide Translucide Effet Mat ",
-        "price":500.00,
-        "image":"https://m.media-amazon.com/images/I/41ekxGhs3+L._AC_SR320,320_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
-        "title": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir, Carte SIM Non Incluse avec Protection Caméra, Bumper Renforcé Antichoc, Étui Rigide Translucide Effet Mat",
-        "desc":"Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir, Carte SIM Non Incluse",
-        "price":710.00,
-        "image":"https://m.media-amazon.com/images/I/51PNvN0ABsL._AC_UL320_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
+        "desc": "Cresee Coque Google Pixel 6a (2022) avec Protection Caméra, Bumper Renforcé Antichoc, Étui Rigide Translucide Effet Mat ",
+        "price": 500,
+        "image": "https://m.media-amazon.com/images/I/41ekxGhs3+L._AC_SR320,320_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
+        "title": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir",
+        "desc": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir, Carte SIM Non Incluse",
+        "price": 710,
+        "image": "https://m.media-amazon.com/images/I/51PNvN0ABsL._AC_UL320_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
         "title": "vivo Y52 5G Smartphone Écran Incell de 6,58 Pouces FHD",
-        "desc":"vivo Y52 5G Smartphone Écran Incell de 6,58 Pouces FHD",
-        "price":688.00,
-        "image":"https://m.media-amazon.com/images/I/41DFoZq7RqL._AC_SR320,320_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
+        "desc": "vivo Y52 5G Smartphone Écran Incell de 6,58 Pouces FHD",
+        "price": 688,
+        "image": "https://m.media-amazon.com/images/I/41DFoZq7RqL._AC_SR320,320_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
         "title": "Ulefone Note 12P Smartphone Android (2022)",
-        "desc":"Ulefone Note 12P Smartphone Android (2022)",
-        "price":350.00,
-        "image":"https://m.media-amazon.com/images/I/41mUd7Xw0FL._AC_SR320,320_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
+        "desc": "Ulefone Note 12P Smartphone Android (2022)",
+        "price": 350,
+        "image": "https://m.media-amazon.com/images/I/41mUd7Xw0FL._AC_SR320,320_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
         "title": "Apple iPhone 14 (512 Go) - Bleu,de manière optimale avec iOS 15",
-        "desc":"Apple iPhone 14 (512 Go) - Bleu",
-        "price":4320.00,
-        "image":"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"  ,
-        "ratings":4
-    },
-    {
-        "id":1,
+        "desc": "Apple iPhone 14 (512 Go) - Bleu",
+        "price": 4320,
+        "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
+        "ratings": 4
+      },
+      {
+        "id": 1,
         "title": "Apple iPhone 13 (256 Go) - Vert ,ios(2022) ",
-        "desc":"Apple iPhone 13 (256 Go) - Vert ",
-        "price":2100.00,
-        "image":"https://m.media-amazon.com/images/I/61-r9zOKBCL._AC_SL1500_.jpg"  ,
-        "ratings":4
-    }
-
+        "desc": "Apple iPhone 13 (256 Go) - Vert ",
+        "price": 2100,
+        "image": "https://m.media-amazon.com/images/I/61-r9zOKBCL._AC_SL1500_.jpg",
+        "ratings": 4
+      }
 
 ]

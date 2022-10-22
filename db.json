@@ -1,127 +1,79 @@
 {
   "signup": [
     {
-      "fname": "Manoj",
-      "lname": "Adhikari",
-      "email": "manojadhikari@gmail.com",
-      "phone": "234324234",
-      "password": "asdasdf",
+      "fname": "Azerty",
+      "lname": "Azerty",
+      "email": "AZERTY@GMAIL.COM",
+      "phone": "0324533872",
+      "password": "123456",
       "id": 1
     },
     {
-      "fname": "shivam",
-      "lname": "adhikari",
-      "email": "shivamadhikari@gmail.com",
-      "phone": "32432",
-      "password": "asdf",
+      "fname": "Randria",
+      "lname": "Ezekia",
+      "email": "email@gmail.com",
+      "phone": "0324533872",
+      "password": "123456789",
       "id": 2
     },
     {
-      "fname": "josoa",
-      "lname": "Mathieu",
-      "email": "j@gmail.com",
-      "phone": "032453872",
-      "password": "123456789",
+      "fname": "Randria",
+      "lname": "Rakotozafy",
+      "email": "randria@gmail.com",
+      "phone": "0324533872",
+      "password": "123456",
       "id": 3
     },
     {
-      "fname": "e",
-      "lname": "r",
-      "email": "e",
-      "phone": "032456987",
-      "password": "1234",
+      "fname": "Rakoto",
+      "lname": "Ransriza",
+      "email": "amazon@gmail.com",
+      "phone": "0324569874",
+      "password": "123456",
       "id": 4
     },
     {
-      "fname": "4",
-      "lname": "4",
-      "email": "1",
-      "phone": "1",
-      "password": "1",
+      "fname": "Rakoto",
+      "lname": "Nivo",
+      "email": "amazon@gmail.com",
+      "phone": "0324569878",
+      "password": "123456",
       "id": 5
     },
     {
-      "fname": "1",
-      "lname": "2",
-      "email": "2",
-      "phone": "2",
-      "password": "2",
+      "fname": "hdsgujhzg",
+      "lname": "ngjnejkgnk",
+      "email": "jnbjknez",
+      "phone": "hbguzhy",
+      "password": "shuihziuz",
       "id": 6
     },
     {
-      "fname": "88",
-      "lname": "8",
-      "email": "8",
-      "phone": "8",
-      "password": "8",
+      "fname": null,
+      "lname": null,
+      "email": null,
+      "phone": null,
+      "password": null,
       "id": 7
     },
     {
-      "fname": "1",
-      "lname": "2",
-      "email": "3",
-      "phone": "4",
-      "password": "5",
+      "fname": null,
+      "lname": null,
+      "email": null,
+      "phone": null,
+      "password": null,
       "id": 8
-    },
-    {
-      "fname": "z",
-      "lname": "z",
-      "email": "z",
-      "phone": "z",
-      "password": "e",
-      "id": 9
-    },
-    {
-      "fname": "9",
-      "lname": "9",
-      "email": "9",
-      "phone": "9",
-      "password": "9",
-      "id": 10
-    },
-    {
-      "fname": "1",
-      "lname": "1",
-      "email": "1",
-      "phone": "1",
-      "password": "1",
-      "id": 11
-    },
-    {
-      "fname": "2",
-      "lname": "2",
-      "email": "2",
-      "phone": "2",
-      "password": "2",
-      "id": 12
-    },
-    {
-      "fname": "\"",
-      "lname": "e",
-      "email": "e",
-      "phone": "e",
-      "password": "d",
-      "id": 13
-    },
-    {
-      "fname": "a",
-      "lname": "a",
-      "email": "a",
-      "phone": "a",
-      "password": "a",
-      "id": 14
-    },
-    {
-      "fname": "RAKOTO",
-      "lname": "Fleury",
-      "email": "amtelnet@gmail.com",
-      "phone": "0324569878",
-      "password": "1234567",
-      "id": 15
     }
   ],
   "prod": [
+    {
+      "id": 1,
+      "title": "The Terminal List - Season 1",
+      "desc": "The Terminal List - Season 1",
+      "price": 11,
+      "image": "https://m.media-amazon.com/images/I/81oiGha5pTL._AC_UY218_.jpg",
+      "ratings": 4
+    },
     {
       "id": 1,
       "title": "The Lord of the Rings",
@@ -172,82 +124,10 @@
     },
     {
       "id": 1,
-      "title": "A League of Their Own - Season 1",
+      "title": "A League of Their Own ",
       "desc": "A League of Their Own - Season 1",
       "price": 22,
       "image": "https://m.media-amazon.com/images/I/91Kr5IVmd8L._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "The Terminal List - Season 1",
-      "desc": "The Terminal List - Season 1",
-      "price": 11,
-      "image": "https://m.media-amazon.com/images/I/81oiGha5pTL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "The Lord of the Rings: The Rings",
-      "desc": "The Lord of the Rings: The Rings of Power - Season 1",
-      "price": 18,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91mzrMvWR5L._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "Samaritan",
-      "desc": "Samaritan",
-      "price": 15,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/812MObytSaL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "Sprung Season 1",
-      "desc": "Sprung Season 1",
-      "price": 11,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81vzvhly+rL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "Robocop (2014)",
-      "desc": "Robocop (2014)",
-      "price": 9,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91+8rrhCRfL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "Power Book III: Raising Kanan ",
-      "desc": "Power Book III: Raising Kanan Season 2",
-      "price": 12,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91dqtd5nHQL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "Goodnight Mommy",
-      "desc": "Goodnight Mommy",
-      "price": 23,
-      "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/7123CfD3yPL._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "A League of Their Own - Season 1",
-      "desc": "A League of Their Own - Season 1",
-      "price": 22,
-      "image": "https://m.media-amazon.com/images/I/91Kr5IVmd8L._AC_UY218_.jpg",
-      "ratings": 4
-    },
-    {
-      "id": 1,
-      "title": "The Terminal List - Season 1",
-      "desc": "The Terminal List - Season 1",
-      "price": 11,
-      "image": "https://m.media-amazon.com/images/I/81oiGha5pTL._AC_UY218_.jpg",
       "ratings": 4
     },
     {
@@ -356,7 +236,7 @@
     },
     {
       "id": 1,
-      "title": "DOOGEE N40 Pro Android 11 Smartphone Débloqué, Octa-Core 6Go+128Go, 6,52 '' HD+ Telephone Portable, Batterie 6380mAh, Caméra Quatre 20MP",
+      "title": "DOOGEE N40 Pro Android 11 Smartphone Débloqué",
       "desc": "DOOGEE N40 Pro Android 11 Smartphone Débloqué, Octa-Core 6Go+128Go, 6,52 '' HD+ Telephone Portable, Batterie 6380mAh, Caméra Quatre 20MP",
       "price": 550,
       "image": "https://m.media-amazon.com/images/I/71bYyAdNhpL._AC_SL1500_.jpg",
@@ -372,7 +252,7 @@
     },
     {
       "id": 1,
-      "title": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir, Carte SIM Non Incluse avec Protection Caméra, Bumper Renforcé Antichoc, Étui Rigide Translucide Effet Mat",
+      "title": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir",
       "desc": "Samsung Galaxy A13, Téléphone Mobile 4G 64Go Noir, Carte SIM Non Incluse",
       "price": 710,
       "image": "https://m.media-amazon.com/images/I/51PNvN0ABsL._AC_UL320_.jpg",
@@ -428,7 +308,7 @@
     },
     {
       "id": 1,
-      "title": "Chaîne étoile & lune or argent sterling 925, noirci, doré or jaune 18 carats",
+      "title": "Chaîne étoile & lune or argent sterling 925, noirci, doré or jaune 18 ",
       "desc": "Chaîne étoile & lune or argent sterling 925, noirci, doré or jaune 18 carats",
       "price": 40,
       "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIMAgwMBIgACEQEDEQH/xAAaAAEBAAMBAQAAAAAAAAAAAAAABAEDBQIH/8QALhAAAgIBAQQJBAMBAAAAAAAAAAECAxEEEiEiMQUTQVFSgaGxwTJhcZFT0fEG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEAAwEAAAAAAAAAAAAAAAABAjFBEf/aAAwDAQACEQMRAD8A+4gAAAAMMn0fC7q/Ba/Xi+SkljmOvmuydaf6eH7olWKgAVAAAYZPoeKudn8lkpeWcL0SNmpn1VFk/DFsaavqqK4dsYpP9E6vG0AFQAAAAAAAAAAAlv4dTp7O+Tg3+V/aRUTa9Y0zmudbU/08kpFIMJ7jJQAAE2v4qo1/yTjHyzv9Eygnue3rKIeFSm/b5KETqsgAqAAAAAAAAAAAHm2CsrlB8pJpnow+QGnRyc9LU3nOyk8963M3k2j4XfXjGxa/Xi+Skk0t2GGZMPkVE9S29ZfLwqMF7v3RSTaHfVOzx2Sl5ZwvRIpJNLQAFQAAAAAAAAAAAAATR4NfNdllal5p4fuikl1HDqNPPf8AU4PzX9pFRItDVqJ9XRZPwxbNpNruKuFfjnGPlnL9ExdEbNNDq9PXDwxSNphGSoAAAAAAAAAAAAAAAAm1+7TSmudbU/08lBicFOEoyWVJYZp0MnLSVOX1KKT/ACtz9SdXigmu49bRHdiClN+y92UE1XHrL5+FRr9M/KFIqABUAAAAAAAAAAAAAAAACbR8Mr6/DY2vw9/yyklg+r1085xZWmu7K5+6JVil8ifQ76pWPnOcpeWcL0SPV18Fp7bIvOwmt3euz8nrTQ6rT11tYcYpPfkdONoAKgAAAAAAAAAAAAAAADzOcYJynJRS5tvBxbrNV0hqJUabYUa/qtkniOc8l2vGe3HJ57DsXKThJQScmsLLwcjoGyNV2q0tmI3dY54wlld/+7zlnuSt46tYv0eu0sXfG6OojF7c4bDUuecrfh4e/HbjmdHo/VLVURs2o8W+KXd8/nkbtRdXp6Z23SUYQWW28YOZ/wA9VKGmU5VqKnvzhJ/ZfSuz7sSTHLyFvs9rsAA6sAAAAAAAAAAAAAAAAByukOh6tUo9W1VYtrFkc7SbT3rf3vL7zqktldl72XLEFnkt7M5SWeVZbHKp6D2pxsvvnNRnuhOyTW5vfz542XnscfudumqFMNmuKjHPJcjQ9K4cUJyyux9pRVnZ4uZnDGY6jWVtewAdGAAAAAAAAAAAAAAAABmDIAGEABkAAAAAAAAAAf/Z",
@@ -436,7 +316,7 @@
     },
     {
       "id": 1,
-      "title": "Custom Vertical Name Woman's Cube Gold Bar Necklace Personalized",
+      "title": "Custom Vertical Name Woman's Cube Gold Bar Necklace ",
       "desc": "Custom Vertical Name Woman's Cube Gold Bar Necklace Personalized",
       "price": 60,
       "image": "https://m.media-amazon.com/images/I/61Gj9owiCQL._AC_UL320_.jpg",
@@ -452,7 +332,7 @@
     },
     {
       "id": 1,
-      "title": "Joycuff Friendship Bracelet Best Friend Jewelry Gift Inspirational Cuff Bangle",
+      "title": "Joycuff Friendship Bracelet Best Friend Jewelry Gift Inspirational Cuff",
       "desc": "Joycuff Friendship Bracelet Best Friend Jewelry Gift Inspirational Cuff Bangle",
       "price": 50,
       "image": "https://m.media-amazon.com/images/I/71VD3lkRunL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg",
@@ -475,12 +355,84 @@
       "ratings": 4
     },
     {
-      "title": "Magix Sac à Dos Ordinateur Portable 16\" Explorer Noir avec USB ",
-      "desc": "Magix Sac à Dos Ordinateur Portable 16\" Explorer Noir avec USB ",
-      "price": "25",
-      "image": "https://m.media-amazon.com/images/I/91bXl0eGmbL._AC_SL1500_.jpg",
+      "id": 1,
+      "title": "Panier Souvenir Madagascar",
+      "desc": "Pannier Souvenir Madagascar",
+      "price": 5,
+      "image": "https://www.ile-rouge.com/wp-content/uploads/2020/07/artisanat-mada-min.png",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Panier Fabriqué avec Rafia",
+      "desc": "Panier Fabriqué avec Rafia",
+      "price": 7,
+      "image": "https://www.bikini.re/wp-content/uploads/jet-engine-forms/37/2020/12/Roofi_boutique_d%C3%A9co_sac_handmade_raphia_artisanal_Tananarive_Mada-6.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Porte-bijoux baobab bouteille ",
+      "desc": "Porte-bijoux baobab bouteille ",
+      "price": 23,
+      "image": "http://www.madabascar.com/photo/Madabascar_272_20181003_151853.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Boîte en bois de rose",
+      "desc": "Boîte en bois de rose",
+      "price": 50,
+      "image": "http://www.madabascar.com/photo/Madabascar_63_20090417_172105.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Les bijoux en nacre de Madagascar",
+      "desc": "les bijoux en nacre de Madagascar",
+      "price": 5,
+      "image": "https://latribune.cyber-diego.com/images/thumbnails/images/stories/2011/avr/bijoux-nacre-fit-450x228.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Des paignes fabriqué avec corne ",
+      "desc": "Des paignes fabriqué avec corne de Zébu",
+      "price": 25,
+      "image": "https://madagascar-green-island-discovery.com/wp-content/uploads/2020/07/Corne.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Rojo Vita Malagasy",
+      "desc": "Malagasy Amperin'Asa",
+      "price": 15,
+      "image": "http://4.bp.blogspot.com/-xlEF-57kuuY/UJmM-_5tcuI/AAAAAAAAAps/IwehvzrcE_Q/s1600/collier+012+-+55+eur.jpg",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Porte Photo ",
+      "desc": "Porto Photo",
+      "price": 50,
+      "image": "http://2.bp.blogspot.com/-XCVhApLqELs/UJmIr6aD8gI/AAAAAAAAAc4/N98PGRUhQHw/s320/028+-+tri-cadre+en+raphia+-+20+eur.jpg",
+      "ratings": 4
+    },
+    {
+      "title": "SAC à dos pour ordinateur",
+      "desc": "SAC à dos pour ordinateur",
+      "price": "14",
+      "image": "https://m.media-amazon.com/images/I/61jWlvADvEL._AC_UL320_.jpg",
       "ratings": null,
       "id": 2
+    },
+    {
+      "title": " SAC à dos pour ordinateur  ",
+      "desc": " SAC à dos pour ordinateur ",
+      "price": "14",
+      "image": "https://m.media-amazon.com/images/I/61jWlvADvEL._AC_UL320_.jpg",
+      "ratings": null,
+      "id": 3
     }
   ]
 }

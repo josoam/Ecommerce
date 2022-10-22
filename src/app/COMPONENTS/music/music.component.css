@@ -1,7 +1,8 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
 .fondback{
     width: 100%;
-    
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
     mask-size: 50%;
     z-index: -50;
     margin-bottom: -300px;
@@ -44,6 +45,11 @@ ngb-carousel {
 
 
 
+
+
+
+
+
 .products{
     /*background-image: url("http://pngimg.com/uploads/amazon/amazon_PNG11.png");*/
    display: flex;
@@ -54,9 +60,6 @@ ngb-carousel {
     object-fit:contain;
     height: 200px;
    
-}
-p{
-    font-size: px;
 }
 .product > mat-card >button{
     margin-top: 20px;

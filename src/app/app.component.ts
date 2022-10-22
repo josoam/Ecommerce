@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   log:any="D:\Projet soutenance\Amazone.clone\src\logo.png";
-  title = 'amazone ';
+  title = 'ShopNay ';
   
   /*stars = [1, 2, 3, 4, 5];
   rating = 0;

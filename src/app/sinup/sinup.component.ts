@@ -32,7 +32,7 @@ export class SinupComponent implements OnInit {
     this.signuser = this.singup.value.fname
     this._http.post<any>("http://localhost:3000/signup", this.singup.value)
     .subscribe(res=>{
-      alert('data added successfully');
+      alert('You are added successfully');
       this.singup.reset();
       this._route.navigate(['login']);
     }, err=>{

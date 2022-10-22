@@ -2,7 +2,7 @@
 
 .fondback{
     width: 100%;
-    
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
     mask-size: 50%;
     z-index: -50;
     margin-bottom: -300px;

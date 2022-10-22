@@ -2,7 +2,7 @@
 
     {
         "id":1,
-        "title": "The Lord of the Rings: The Rings",
+        "title": "The Lord of the Rings",
         "desc":"The Lord of the Rings: The Rings of Power - Season 1",
         "price":18.00,
         "image":"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91mzrMvWR5L._AC_UY218_.jpg"  ,
@@ -51,7 +51,7 @@
     },
     {
         "id":1,
-        "title": "A League of Their Own - Season 1",
+        "title": "A League of Their Own",
         "desc":"A League of Their Own - Season 1",
         "price":22.00,
         "image":"https://m.media-amazon.com/images/I/91Kr5IVmd8L._AC_UY218_.jpg"  ,
@@ -59,7 +59,7 @@
     },
     {
         "id":1,
-        "title": "The Terminal List - Season 1",
+        "title": "The Terminal List ",
         "desc":"The Terminal List - Season 1",
         "price":11.00,
         "image":"https://m.media-amazon.com/images/I/81oiGha5pTL._AC_UY218_.jpg"  ,
